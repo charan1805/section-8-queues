@@ -1,0 +1,8 @@
+E:\my details\personal\c sharp\ asssigned projects\section 8\Quaries\bin\Debug\Quaries.exe.config
+E:\my details\personal\c sharp\ asssigned projects\section 8\Quaries\bin\Debug\Quaries.exe
+E:\my details\personal\c sharp\ asssigned projects\section 8\Quaries\bin\Debug\Quaries.pdb
+E:\my details\personal\c sharp\ asssigned projects\section 8\Quaries\obj\Debug\Quaries.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\ asssigned projects\section 8\Quaries\obj\Debug\Quaries.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\ asssigned projects\section 8\Quaries\obj\Debug\Quaries.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\ asssigned projects\section 8\Quaries\obj\Debug\Quaries.exe
+E:\my details\personal\c sharp\ asssigned projects\section 8\Quaries\obj\Debug\Quaries.pdb
